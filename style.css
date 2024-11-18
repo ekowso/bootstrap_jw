@@ -1,0 +1,9 @@
+.image-container {
+  position: relative;
+}
+
+.text-in-corner {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
